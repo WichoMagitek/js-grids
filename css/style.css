@@ -1,0 +1,28 @@
+#menu {
+	width: 512px;
+	margin: 0 auto;
+}
+
+#wrapper {
+	width: 512px;
+	margin: 40px auto;
+}
+.grid {
+	border: 1px dotted;
+	border-color: #EFEFEF;
+	display: inline-block;
+	box-sizing: border-box;
+	float: left;
+}
+
+#menu {
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+#right {
+	float: right;
+}
